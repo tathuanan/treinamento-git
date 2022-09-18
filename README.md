@@ -6,4 +6,3 @@ Arquivo do exemplo para o treinamento do git da Iteris!
 
 # Alteração da 'develop'
 # Alteração da 'main'
-git
